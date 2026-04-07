@@ -47,6 +47,60 @@
             "symbol": "OP",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x4200000000000000000000000000000000000042/logo.png"
+        },
+        {
+            "asset": "c10000070_t0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "type": "OPTIMISM",
+            "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "name": "USD Coin (Bridged)",
+            "symbol": "USDC.e",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png"
+        },
+        {
+            "asset": "c10000070_t0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "type": "OPTIMISM",
+            "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85/logo.png"
+        },
+        {
+            "asset": "c10000070_t0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+            "type": "OPTIMISM",
+            "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png"
+        },
+        {
+            "asset": "c10000070_t0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+            "type": "OPTIMISM",
+            "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo.png"
+        },
+        {
+            "asset": "c10000070_t0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+            "type": "OPTIMISM",
+            "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb/logo.png"
+        },
+        {
+            "asset": "c10000070_t0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+            "type": "OPTIMISM",
+            "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+            "name": "Balancer",
+            "symbol": "BAL",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921/logo.png"
         }
     ],
     "version": {

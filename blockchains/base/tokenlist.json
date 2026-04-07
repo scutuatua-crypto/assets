@@ -1,0 +1,39 @@
+{
+    "name": "Trust Wallet: Base",
+    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "timestamp": "2024-01-01T00:00:00.000Z",
+    "tokens": [
+        {
+            "asset": "c8453_t0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "type": "BASE",
+            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913/logo.png"
+        },
+        {
+            "asset": "c8453_t0x4200000000000000000000000000000000000006",
+            "type": "BASE",
+            "address": "0x4200000000000000000000000000000000000006",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png"
+        },
+        {
+            "asset": "c8453_t0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "type": "BASE",
+            "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "name": "Coinbase Wrapped Staked ETH",
+            "symbol": "cbETH",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22/logo.png"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
