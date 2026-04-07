@@ -3,6 +3,87 @@
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
     "timestamp": "2022-01-30T13:48:32.500787",
     "tokens": [
+        {
+            "asset": "c10042221_t0x912CE59144191C1204E64559FE8253a0e49E6548",
+            "type": "ARBITRUM",
+            "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+            "name": "Arbitrum",
+            "symbol": "ARB",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
+        },
+        {
+            "asset": "c10042221_t0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "type": "ARBITRUM",
+            "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xaf88d065e77c8cC2239327C5EDb3A432268e5831/logo.png"
+        },
+        {
+            "asset": "c10042221_t0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+            "type": "ARBITRUM",
+            "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f/logo.png"
+        },
+        {
+            "asset": "c10042221_t0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+            "type": "ARBITRUM",
+            "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+            "name": "Curve DAO Token",
+            "symbol": "CRV",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978/logo.png"
+        },
+        {
+            "asset": "c10042221_t0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
+            "type": "ARBITRUM",
+            "address": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
+            "name": "Lido DAO",
+            "symbol": "LDO",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60/logo.png"
+        },
+        {
+            "asset": "c10042221_t0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+            "type": "ARBITRUM",
+            "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+            "name": "Stargate Finance",
+            "symbol": "STG",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x6694340fc020c5E6B96567843da2df01b2CE1eb6/logo.png"
+        },
+        {
+            "asset": "c10042221_t0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+            "type": "ARBITRUM",
+            "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+            "name": "MAGIC",
+            "symbol": "MAGIC",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x539bdE0d7Dbd336b79148AA742883198BBF60342/logo.png"
+        },
+        {
+            "asset": "c10042221_t0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8",
+            "type": "ARBITRUM",
+            "address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8",
+            "name": "Balancer",
+            "symbol": "BAL",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8/logo.png"
+        },
+        {
+            "asset": "c10042221_t0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+            "type": "ARBITRUM",
+            "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+            "name": "Chainlink",
+            "symbol": "LINK",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4/logo.png"
+        }
     ],
     "version": {
         "major": 6,

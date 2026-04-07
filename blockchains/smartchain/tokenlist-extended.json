@@ -2,7 +2,71 @@
     "name": "Trust Wallet: SmartChain Extended List",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
     "timestamp": "2022-01-27T14:33:26.183301",
-    "tokens": [],
+    "tokens": [
+        {
+            "asset": "c20000714_t0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+            "type": "BEP20",
+            "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+            "name": "Dogecoin",
+            "symbol": "DOGE",
+            "decimals": 8,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xbA2aE424d960c26247Dd6c32edC70B295c744C43/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "type": "BEP20",
+            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x14016E85a25aeb13065688cAFB43044C2ef86784",
+            "type": "BEP20",
+            "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x14016E85a25aeb13065688cAFB43044C2ef86784/logo.png"
+        },
+        {
+            "asset": "c20000714_t0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+            "type": "BEP20",
+            "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+            "name": "Polygon",
+            "symbol": "MATIC",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xCC42724C6683B7E57334c4E856f4c9965ED682bD/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+            "type": "BEP20",
+            "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+            "name": "SHIBA INU",
+            "symbol": "SHIB",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x2859e4544C4bB03966803b044A93563Bd2D0DD4D/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+            "type": "BEP20",
+            "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+            "name": "Avalanche",
+            "symbol": "AVAX",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x1CE0c2827e2eF14D5C4f29a091d735A204794041/logo.png"
+        },
+        {
+            "asset": "c20000714_t0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+            "type": "BEP20",
+            "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+            "name": "Solana",
+            "symbol": "SOL",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x570A5D26f7765Ecb712C0924E4De545B89fD43dF/logo.png"
+        }
+    ],
     "version": {
         "major": 1,
         "minor": 0,

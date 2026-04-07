@@ -3,6 +3,42 @@
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
     "timestamp": "2022-01-27T14:33:26.183301",
     "tokens": [
+        {
+            "asset": "c10009000_t0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+            "type": "AVALANCHE",
+            "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+            "name": "JoeToken",
+            "symbol": "JOE",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+        },
+        {
+            "asset": "c10009000_t0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+            "type": "AVALANCHE",
+            "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+            "name": "BENQI",
+            "symbol": "QI",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png"
+        },
+        {
+            "asset": "c10009000_t0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+            "type": "AVALANCHE",
+            "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+            "name": "Bitcoin",
+            "symbol": "BTC.b",
+            "decimals": 8,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
+        },
+        {
+            "asset": "c10009000_t0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+            "type": "AVALANCHE",
+            "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+            "name": "Staked AVAX",
+            "symbol": "sAVAX",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
+        }
     ],
     "version": {
         "major": 1,
