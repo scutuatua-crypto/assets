@@ -30,5 +30,10 @@
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/base/assets/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22/logo.png"
         }
-    ]
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
 }
